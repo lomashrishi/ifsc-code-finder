@@ -1,2 +1,2 @@
-# ifsc-code-finder
+# Ifsc-Code-Finder
 Ifsc-Code-Finder
